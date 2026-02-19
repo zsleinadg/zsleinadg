@@ -1,8 +1,20 @@
 <div align="center">
-  <h1>Olá, eu sou o Daniel Marques 👋</h1>
-  <p><strong>Desenvolvedor Front-End | Em constante evolução e focado em excelência técnica</strong></p>
+
+  # 👨🏻‍💻 Daniel Marques
+
+  **`Desenvolvedor FullStack`** 
+  </br>
+  <strong>
+  Em constante evolução e focado em excelência técnica
+  </strong>
+
+  Me chamo Daniel Marques Muniz, tenho 19 anos e sou natural do Ceará. Concluí o ensino médio no IFCE, com o curso técnico em CN. Atualmente, estou cursando Técnico em Informática no IFCE. Sou apaixonada por tecnologia e em me aprimorar tecnicamente.
   
   <p>Proporciono aplicações de qualidade utilizando as tecnologias mais modernas do ecossistema Web.</p>
+
+  <a href="https://dmmz.vercel.app" target="_blank">
+    <strong>Veja meu Portfólio ></strong>
+  </a>
 
   <br />
 
