@@ -54,9 +54,9 @@
     <th align="left">Instituição</th>
   </tr>
   <tr>
-    <td>FullStack</td>
+    <td>FullStack PRO</td>
     <td>🚀 Cursando</td>
-    <td>Sujeito Programador</td>
+    <td>Hotmart</td>
   </tr>
   <tr>
     <td>Técnico em Informática</td>
