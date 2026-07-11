@@ -54,13 +54,18 @@
     <th align="left">Instituição</th>
   </tr>
   <tr>
+    <td>Engenharia de Software</td>
+    <td>🚀 Cursando</td>
+    <td>Faculdade Descomplica</td>
+  </tr>
+  <tr>
     <td>FullStack PRO</td>
     <td>🚀 Cursando</td>
     <td>Hotmart</td>
   </tr>
   <tr>
     <td>Técnico em Informática</td>
-    <td>🚀 Cursando</td>
+    <td>✅ Concluído</td>
     <td>IFCE</td>
   </tr>
   <tr>
