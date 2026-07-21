@@ -56,7 +56,7 @@
   <tr>
     <td>Engenharia de Software</td>
     <td>🚀 Cursando</td>
-    <td>Faculdade Descomplica</td>
+    <td>UNIAMÉRICA</td>
   </tr>
   <tr>
     <td>FullStack PRO</td>
